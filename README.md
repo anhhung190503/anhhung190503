@@ -1,5 +1,7 @@
 ## Hi there 👋
+<img src="https://scontent.fsgn1-1.fna.fbcdn.net/v/t39.30808-1/321095835_829500151465248_1036732933682073172_n.jpg?stp=cp6_dst-jpg_s200x200&_nc_cat=101&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=V92RYgGL3PEQ7kNvgFvBQ_8&_nc_ht=scontent.fsgn1-1.fna&_nc_gid=A2ET7RgwuejKOt3mVxczhWe&oh=00_AYCO0tBd-mHf8PUCUCnyZPlQvC34cR-ONWCPsWUJsonhCg&oe=6703E9F5" alt="Avatar" width="150"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anhhung190503&hide=contribs,prs)
 <!--
 **anhhung190503/anhhung190503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
